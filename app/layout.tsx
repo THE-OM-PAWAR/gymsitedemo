@@ -18,7 +18,7 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <body style={{ fontFamily: 'Inter, system-ui, sans-serif' }}>
         <ThemeProvider
-          defaultTheme="system"
+          defaultTheme="dark"
         >
           <Navbar />
           {children}
