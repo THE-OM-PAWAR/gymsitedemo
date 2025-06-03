@@ -38,7 +38,7 @@ export function Navbar() {
           >
             <Dumbbell className="h-8 w-8 text-primary" />
             <span className="text-foreground">
-              Radhe's<span className="text-[#FF3A3A]"> Fitness</span>
+              Demo<span className="text-[#FF3A3A]"> Fitness</span>
             </span>
           </Link>
 

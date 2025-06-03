@@ -13,7 +13,7 @@ export function Footer() {
           <div className="space-y-4">
             <Link href="/" className="flex items-center space-x-2 text-2xl font-bold">
               <Dumbbell className="h-8 w-8 text-primary" />
-              <span className="text-foreground">Radhe's<span className="text-[#FF3A3A]"> Fitness</span></span>
+              <span className="text-foreground">Demo<span className="text-[#FF3A3A]"> Fitness</span></span>
             </Link>
             <p className="text-muted-foreground">
               Building stronger bodies and minds through science-backed training and a supportive community.

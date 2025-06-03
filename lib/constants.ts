@@ -114,7 +114,7 @@ export const TESTIMONIALS = [
   {
     name: "Jessica L.",
     quote:
-      "After struggling with fad diets for years, Radhe's nutrition coaching finally helped me understand how to eat for my goals. I'm down 30lbs and have never felt stronger.",
+      "After struggling with fad diets for years, Demo nutrition coaching finally helped me understand how to eat for my goals. I'm down 30lbs and have never felt stronger.",
     image: "https://images.pexels.com/photos/1308885/pexels-photo-1308885.jpeg?auto=compress&cs=tinysrgb&w=800",
     achievement: "Lost 30lbs and maintained for over a year",
   },
